@@ -24,15 +24,15 @@ export const AboutSection = () => {
                     <div className="space-y-6">
                         <h3> Passionate Web Developer &  Tech Creator</h3>
 
-                        <p className="text-muted-foreground"> With over 2 years of experience in web developmemt ,
-                            i specialize in creating responsive, accessible ,and performance
-                            web applications using modern technologies.
+                        <p className="text-muted-foreground"> 
+                            Full Stack Developer, passionate about creating modern, responsive, and user-centric web interfaces.
                         </p>
 
                         <p className="text-muted-foreground">
-                            I'am Passionate about creating elegant  solutions to complex problems ,
-                            and I'm constantly learning new technologies
-                            and techniques to stay at the forefront of the ever-evolving web landscape.
+                           Passionate Full Stack Developer developer skilled in building responsive and user-friendly web applications.
+                           Strong foundation in React, JavaScript, HTML, Tailwind CSS, Node.js , Express, MongoDb.
+                           Focused on clean UI/UX design and seamless user experiences.
+                           Enjoy solving problems and continuously learning new web technologies.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -63,8 +63,21 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">Frontend Development</h4>
                                     <p className="text-muted-foreground">
-                                        Creating responsive websites and web applications with
-                                        modern technologies.
+                                        Build responsive and interactive web interfaces using modern frontend technologies.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="gradient-border p-6 card-hover bg-primary/15">
+                            <div className="flex items-start gap-4">
+                                <div className="p-3 rounded-full bg-primary/20">
+                                    <Code className="h-6 w-6 text-primary" />
+                                </div>
+                                <div className="text-left">
+                                    <h4 className="font-semibold text-lg">Backend Development</h4>
+                                    <p className="text-muted-foreground">
+                                        Build secure and scalable server-side applications using Node.js, Express, and MongoDB.
                                     </p>
                                 </div>
                             </div>
@@ -78,9 +91,8 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">UI/UX Design</h4>
                                     <p className="text-muted-foreground">
-                                        Creating responsive websites and web applications with
-                                        modern technologies.
-                                    </p>
+                                        
+                                    </p>Design intuitive, user-friendly interfaces focused on usability and visual consistency.
                                 </div>
 
                             </div>
@@ -93,8 +105,7 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h4 className="font-semibold text-lg">Problem Solving</h4>
                                     <p className="text-muted-foreground">
-                                        Creating responsive websites and web applications with
-                                        modern technologies.
+                                        Analyze problems logically and implement efficient, scalable solutions.
                                     </p>
                                 </div>
 

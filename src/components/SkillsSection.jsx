@@ -12,12 +12,15 @@ const skills = [
     {name : 'Node.js' , level : 70, category : 'backend'},
     {name : 'Express' , level : 70, category : 'backend'},
     {name : 'MongoDB' , level : 70, category : 'backend'},
-    {name : 'PostgreSQl' , level : 80, category : 'backend'},
+    {name : "java"    , level : 70, category : "backend"}
+,
 
     //tools
     {name : 'GIt/Github' , level : 75, category : 'tools'},
     {name : 'VS Code' , level : 75, category : 'tools'},
-    {name : 'CodeBook' , level : 50, category : 'tools'}, 
+    {name : 'CodeBook' , level : 50, category : 'tools'},
+    {name : 'Vercel' , level : 50, category : 'tools'},
+    {name : 'Render' , level : 50, category : 'tools'}, 
  ]
  const categories =["all","frontend","backend" ,"tools"]
 

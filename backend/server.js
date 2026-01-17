@@ -17,6 +17,7 @@ app.get('/',function(req,res){
 app.get('/api/cv',(req,res) =>{
   res.json({
     url:"https://drive.google.com/file/d/1fS-92Vb2CPU5tHZFY66sqG24cao9Wmvh/view?usp=drivesdk"
+    
   });
 });
 
